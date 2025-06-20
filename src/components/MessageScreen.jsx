@@ -8,6 +8,9 @@ export default function MessageScreen({ onNext, ...motionProps }) {
     const [currentIndex, setCurrentIndex] = useState(0)
     const [isTyping, setIsTyping] = useState(true)
 
+        const [currentIndex, setCurrentIndex] = useState(0)
+    const [isTyping, setIsTyping] = useState(true)
+
     const message =
         "Priyanshi...
 
@@ -46,6 +49,8 @@ I miss you, Priyanshi. Har din. Har raat. Aaj bhi wahi hu tumhra billu. 🥀
 
     useEffect(() => {
         if (currentIndex < message.length) {
+
+    
             const timer = setTimeout(() => {
                 setDisplayText((prev) => prev + message[currentIndex])
                 setCurrentIndex((prev) => prev + 1)
