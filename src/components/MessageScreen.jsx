@@ -11,8 +11,8 @@ export default function MessageScreen({ onNext, ...motionProps }) {
         const [currentIndex, setCurrentIndex] = useState(0)
     const [isTyping, setIsTyping] = useState(true)
 
-    const message =
-        "Priyanshi...
+    const message = `
+Priyanshi...
 
 Raat ko kabhi aasmaan dekh leta hoon...
 aur honestly, bina soche hi aap yaad aa jaati hain.
@@ -45,7 +45,8 @@ Miss karna ek aadat ban gaya hai.
 Aur aap... woh yaad jo raat ki neend bhi chura leti hai.
 
 I miss you, Priyanshi. Har din. Har raat. Aaj bhi wahi hu tumhra billu. 🥀
-💕✨"
+💕✨
+`
 
     useEffect(() => {
         if (currentIndex < message.length) {
