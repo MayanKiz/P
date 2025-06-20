@@ -8,10 +8,7 @@ export default function MessageScreen({ onNext, ...motionProps }) {
     const [currentIndex, setCurrentIndex] = useState(0)
     const [isTyping, setIsTyping] = useState(true)
 
-        const [currentIndex, setCurrentIndex] = useState(0)
-    const [isTyping, setIsTyping] = useState(true)
-
-    const message = `
+        const message = `
 Priyanshi...
 
 Raat ko kabhi aasmaan dekh leta hoon...
