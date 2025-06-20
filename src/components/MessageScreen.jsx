@@ -9,7 +9,40 @@ export default function MessageScreen({ onNext, ...motionProps }) {
     const [isTyping, setIsTyping] = useState(true)
 
     const message =
-        "My darling, every star in this endless sky whispers your name to me. The moon feels lonely without your radiant smile to compete with its glow. Distance is just a number when you mean everything to my heart. You are my sunshine in the darkest nights, my anchor in the stormiest seas. I love you more than all the stars combined💕✨"
+        "Priyanshi...
+
+Raat ko kabhi aasmaan dekh leta hoon...
+aur honestly, bina soche hi aap yaad aa jaati hain.
+Na koi reason hota hai, na koi recent memory —
+bas dil aapke naam pe ruk jaata hai.
+
+Har taara lagta hai jaise aapka naam bol raha ho...
+chaand thoda thakaa-thakaa sa lagta hai,
+shayad isliye kyunki usse aapki muskaan jaisi roshni nahi milti.
+
+Aap door ho... par dil nahi maanta.
+Waqt aur distance toh sirf numbers hain —
+aap toh har khayal ke beech ho,
+har silence ke baad ho.
+
+Aap meri life ka woh part thi
+jo bina bole samajh leti thi.
+Aur ab jab sab kuch bolne ka mann hota hai,
+toh koi sunne wala nahi hota.
+
+Main har roz aapko miss karta hoon —
+bina dikhaye, bina bataye.
+Aapka naam nahi leta ab,
+par dil ke andar har jagah wahi hai.
+
+Jo bhi tha, jaisa bhi tha...
+uski jagah koi nahi le sakta.
+
+Miss karna ek aadat ban gaya hai.
+Aur aap... woh yaad jo raat ki neend bhi chura leti hai.
+
+I miss you, Priyanshi. Har din. Har raat. Aaj bhi wahi hu tumhra billu. 🥀
+💕✨"
 
     useEffect(() => {
         if (currentIndex < message.length) {
