@@ -9,11 +9,17 @@ import "swiper/css/pagination"
 
 export default function MemoriesScreen({ onNext, ...motionProps }) {
     const memories = [
-        { id: 1, imgSrc: "./images/1.jpg", title: "Our First Date", emoji: "💕", color: "from-pink-400 to-purple-500" },
-        { id: 2, imgSrc: "./images/2.jpg", title: "That Cute Selfie", emoji: "📸", color: "from-purple-400 to-pink-500" },
-        { id: 3, imgSrc: "./images/3.jpg", title: "Dancing Together", emoji: "💃", color: "from-blue-400 to-purple-500" },
-        { id: 4, imgSrc: "./images/4.jpg", title: "Sunset Walks", emoji: "🌅", color: "from-orange-400 to-pink-500" },
+        { id: 1, date: 'September, 2023', event: 'Our Journey Began', emoji: '❤️', color: 'from-red-400 to-pink-500' },
+        { id: 2, date: '3 September, 2023', event: 'First day we talked', emoji: '💬', color: 'from-purple-400 to-blue-400' },
+        { id: 3, date: 'Dance Event on Teachers Day', event: 'First Topic of Conversation', emoji: '🤔', color: 'from-yellow-400 to-pink-500' },
+        { id: 4, date: 'Science Exhibition', event: 'Favorite time spent with you', emoji: '💝', color: 'from-indigo-400 to-pink-400' },
+        { id: 5, date: '5 Jan sharp 12 AM on My Day', event: 'Phli wish tumhri thii', emoji: '🎂', color: 'from-orange-400 to-red-400' },
+        { id: 6, date: '5 January, 2025', event: 'First Trip Together', emoji: '🛺', color: 'from-green-400 to-blue-400' },
+        { id: 7, date: 'Bahut hoti thi… par har baar manaleta tha', event: 'Ladaaiyaan', emoji: '🙃', color: 'from-pink-300 to-purple-400' },
+        { id: 8, date: '17 June, 2025', event: 'Last time we talked', emoji: '📱', color: 'from-gray-400 to-gray-600' },
     ]
+
+   
 
     return (
         <motion.div {...motionProps} className="min-h-screen flex flex-col items-center justify-center px-4 py-8 relative">
