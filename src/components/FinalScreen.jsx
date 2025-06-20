@@ -9,7 +9,36 @@ export default function FinalScreen({ ...motionProps }) {
     const [isTyping, setIsTyping] = useState(true)
 
     const finalMessage =
-        "Even miles apart, you're all I think about. Every second without you feels incomplete. I miss your smile, your laugh, your voice — everything. You are my peace in this noisy world. No matter the distance, you'll always live in my heart. I can't wait for the day I hold you again. Until then, just know... I miss you more than words can ever say🌙💕"
+        "Even itne miles door hokar bhi...
+main bas aapke baare me hi sochta hoon.
+Har second jab aap se baat nahi hoti —
+lagta hai kuch adhoora reh gaya.
+
+Aapki smile, woh random laugh,
+voice notes... ya woh funny Free Fire wale moments —
+sab kuch yaad aata hai.
+
+Humne sirf chat ki thi,
+lekin connection real tha.
+Game ke beech wale wo stupid jokes,
+aur aapka “arre revive karo bhai” kehna —
+ab bhi kaan me ghoomta hai.
+
+Aap meri shanti thi
+is noisy world me —
+ek woh name jise dekh ke din theek lagta tha.
+
+Distance matter karta hai,
+but feelings kabhi signal drop nahi karti.
+Aap mere har thought me ho...
+aur dil me hamesha rehoge.
+
+Mujhe pata nahi kab fir baat hogi,
+kab game me team banegi
+ya kab ek “hi” wapas aayega...
+but tab tak, sirf ek hi baat kehni hai —
+
+I miss you... more than my own words can ever explain. 🌙💬🎮💕"
 
     useEffect(() => {
         const timer = setTimeout(() => {
