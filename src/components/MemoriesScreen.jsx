@@ -59,7 +59,7 @@ export default function MemoriesScreen({ onNext, ...motionProps }) {
     },
     {
       id: 7,
-      date: 'Bahut hoti thi… par har baar manaleta tha',
+      date: 'Bahut hoti thi… par har baar manaleta tha But apki baar nhi mana paya 🤕',
       event: 'Ladaaiyaan',
       emoji: '🙃',
       color: 'from-pink-300 to-purple-400',
