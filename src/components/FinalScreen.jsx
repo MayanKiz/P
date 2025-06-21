@@ -9,7 +9,7 @@ export default function FinalScreen({ ...motionProps }) {
     const [isTyping, setIsTyping] = useState(true)
 
     const finalMessage =
-        "Even itne miles door hokar bhi...
+        `Even itne miles door hokar bhi...
 main bas aapke baare me hi sochta hoon.
 Har second jab aap se baat nahi hoti —
 lagta hai kuch adhoora reh gaya.
@@ -38,7 +38,7 @@ kab game me team banegi
 ya kab ek “hi” wapas aayega...
 but tab tak, sirf ek hi baat kehni hai —
 
-I miss you... more than my own words can ever explain. 🌙💬🎮💕"
+I miss you... more than my own words can ever explain. 🌙💬🎮💕`
 
     useEffect(() => {
         const timer = setTimeout(() => {
