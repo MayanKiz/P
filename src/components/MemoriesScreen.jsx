@@ -15,7 +15,7 @@ export default function MemoriesScreen({ onNext, ...motionProps }) {
       event: 'Our Journey Began',
       emoji: '❤️',
       color: 'from-red-400 to-pink-500',
-      imgSrc: "https://images.pexels.com/photos/32597062/pexels-photo-32597062.jpeg"
+      imgSrc: "https://images.pexels.com/photos/32657304/pexels-photo-32657304.jpeg"
     },
     {
       id: 2,
@@ -23,7 +23,7 @@ export default function MemoriesScreen({ onNext, ...motionProps }) {
       event: 'First day we talked',
       emoji: '💬',
       color: 'from-purple-400 to-blue-400',
-      imgSrc: "https://images.pexels.com/photos/32597053/pexels-photo-32597053.jpeg"
+      imgSrc: "https://images.pexels.com/photos/238480/pexels-photo-238480.jpeg"
     },
     {
       id: 3,
@@ -31,7 +31,7 @@ export default function MemoriesScreen({ onNext, ...motionProps }) {
       event: 'First Topic of Conversation',
       emoji: '🤔',
       color: 'from-yellow-400 to-pink-500',
-      imgSrc: "https://images.pexels.com/photos/32597054/pexels-photo-32597054.jpeg"
+      imgSrc: "https://images.pexels.com/photos/18130405/pexels-photo-18130405.jpeg"
     },
     {
       id: 4,
@@ -39,7 +39,7 @@ export default function MemoriesScreen({ onNext, ...motionProps }) {
       event: 'Favorite time spent with you',
       emoji: '💝',
       color: 'from-indigo-400 to-pink-400',
-      imgSrc: "https://images.pexels.com/photos/1402787/pexels-photo-1402787.jpeg"
+      imgSrc: "https://i.ibb.co/fVN6wQtX/image.jpg"
     },
     {
       id: 5,
