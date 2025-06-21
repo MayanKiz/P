@@ -11,14 +11,10 @@ export default function MessageScreen({ onNext, ...motionProps }) {
         const message = `
 Priyanshi...
 
-Raat ko kabhi aasmaan dekh leta hoon...
-aur honestly, bina soche hi aap yaad aa jaati hain.
-Na koi reason hota hai, na koi recent memory —
-bas dil aapke naam pe ruk jaata hai.
+Yaar tum chhodke chali gyi 
+but yaar aaj bhi wo reel yaad aati jab tumne bheji thi ki mere friend ko lagta hh mai usse chhodungi lekin fir uske baad tha kabhi nhii mai usse sach manta thaa isiliye nischint rehta tha yarr please fir ajao na mai phle jaisa hi treat karunga jaise phle karta tha....
+Yaar ab toh game bhi nhi khelte mere sath me yarr 😟
 
-Har taara lagta hai jaise aapka naam bol raha ho...
-chaand thoda thakaa-thakaa sa lagta hai,
-shayad isliye kyunki usse aapki muskaan jaisi roshni nahi milti.
 
 Aap door ho... par dil nahi maanta.
 Waqt aur distance toh sirf numbers hain —
@@ -28,20 +24,25 @@ har silence ke baad ho.
 Aap meri life ka woh part thi
 jo bina bole samajh leti thi.
 Aur ab jab sab kuch bolne ka mann hota hai,
-toh koi sunne wala nahi hota.
+toh koi sunne wala nahi hota....
 
 Main har roz aapko miss karta hoon —
 bina dikhaye, bina bataye.
-Aapka naam nahi leta ab,
-par dil ke andar har jagah wahi hai.
+Apne har jagah se block kar diya maine wo link apke pass bheji thi shyd aap kabhi galti se click kare toh ye msg ap tak phuch jye.....
+khair ☹️ jab apki yaad aati hh toh emotional hojata hu apne aap 
+jab ham mile thhe kitne aache thhe kitne acche se Baat karte the kitni innocent aur kitni sweet thee aap aaj bhi mai nhi bhula uss Priyanshi ko ....
+Sach me bhut miss karta hu yarrrr...
+
 
 Jo bhi tha, jaisa bhi tha...
-uski jagah koi nahi le sakta.
+uski jagah koi nahi le sakta.....
+Abb mughey pata chala mai kitna andar se kamzor tha ....
 
 Miss karna ek aadat ban gaya hai.
 Aur aap... woh yaad jo raat ki neend bhi chura leti hai.
 
 I miss you, Priyanshi. Har din. Har raat. Aaj bhi wahi hu tumhra billu. 🥀
+Please laut aao na Dude☹️🫣
 💕✨
 `
 
