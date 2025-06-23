@@ -95,7 +95,7 @@ I miss you... more than my own words can ever explain. 🌙💬🎮💕`
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: 0.5 }}
                 >
-                    Forever Yours
+                    From mayank..
                 </motion.h2>
 
                 <motion.div
