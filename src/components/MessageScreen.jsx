@@ -56,7 +56,7 @@ Aaj 23 June hh abhi time 7:56 mai ye abhi likh rha hu sach me aaj subah jab utha
             const timer = setTimeout(() => {
                 setDisplayText((prev) => prev + message[currentIndex])
                 setCurrentIndex((prev) => prev + 1)
-            }, 30)
+            }, 10)
             return () => clearTimeout(timer)
         } else {
             setIsTyping(false)
