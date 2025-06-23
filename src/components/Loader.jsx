@@ -153,7 +153,7 @@ export default function Loader() {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: 2 }}
                 >
-                    My heart beats for you...
+                    I hope you will be happy....
                 </motion.p>
 
                 <motion.div
