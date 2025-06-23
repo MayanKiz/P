@@ -72,7 +72,7 @@ I miss you... more than my own words can ever explain. 🌙💬🎮💕`
             } else {
                 setIsTyping(false)
             }
-        }, 3)
+        }, 1)
         return () => clearTimeout(timer)
     }, [currentIndex, finalMessage])
 
