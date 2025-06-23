@@ -12,9 +12,9 @@ export default function MessageScreen({ onNext, ...motionProps }) {
 Priyanshi...
 
 Yaar tum chhodke chali gyi 
-but yaar aaj bhi wo reel yaad aati hh..... jo apne bheji thi ki mere friend ko lagta hh mai usse chhodungi..... but kabhi nhii chhodungii....but apne chhoodiya.....mai usse sach manta thaa isiliye nischint rehta tha yarr please fir ajao na ...
+but yaar aaj bhi wo reel yaad aati hh..... jo apne bheji thi ki mere friend ko lagta hh mai usse chhodungi..... but kabhi nhii chhodungii....but apne chhordiya.....mai usse sach manta thaa isiliye nischint rehta tha Aap please fir ajao na ...
 Baat toh karo....
-Yaar ab toh game bhi nhi khelte mere sath me yarr 😟
+aaP ab toh game bhi nhi khelte mere sath me yarr 😟
 
 
 Aap door ho... par dil nahi maanta.
@@ -44,6 +44,8 @@ Aur aap... woh yaad jo raat ki neend bhi chura leti hai.
 
 I miss you, Priyanshi. Har din. Har raat. Aaj bhi wahi hu tumhra billu. 🥀
 Please laut aao na Dude☹️🫣
+
+Aaj 23 June hh abhi time 7:56 mai ye abhi likh rha hu sach me aaj subah jab utha bhut yaad arhi thi tumhri kasam ....
 💕✨
 `
 
