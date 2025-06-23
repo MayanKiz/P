@@ -12,7 +12,7 @@ export default function MessageScreen({ onNext, ...motionProps }) {
 Priyanshi...
 
 Yaar tum chhodke chali gyi 
-but yaar aaj bhi wo reel yaad aati hh..... jo apne bheji thi ki mere friend ko lagta hh mai usse chhodungi..... but kabhi nhii chhodungii....but apne chhordiya.....mai usse sach manta thaa isiliye nischint rehta tha Aap please fir ajao na ...
+but yaar aaj bhi wo reel yaad aati hh..... jo apne bheji thi ki mere friend ko lagta hh mai usse chhordungi baad me..... but kabhi nhii never.. chhodungii....but apne chhordiya.....mai usse sach manta thaa isiliye nischint rehta tha Aap please fir ajao na ...
 Baat toh karo....
 aaP ab toh game bhi nhi khelte mere sath me yarr 😟
 
@@ -56,7 +56,7 @@ Aaj 23 June hh abhi time 7:56 mai ye abhi likh rha hu sach me aaj subah jab utha
             const timer = setTimeout(() => {
                 setDisplayText((prev) => prev + message[currentIndex])
                 setCurrentIndex((prev) => prev + 1)
-            }, 10)
+            }, 2)
             return () => clearTimeout(timer)
         } else {
             setIsTyping(false)
