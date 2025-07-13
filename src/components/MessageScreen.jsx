@@ -58,7 +58,9 @@ kash agr abhi bhi aap mere friend hote i mean bate hoti rehti .....kya hi bolu s
 idk mai q rone lagta hu ankho me asu kyu aajate hh jab Aapke bare me sochta hu ....
 mai toh abhi train me hu 3A me middle birth leta hu
 mere just neeche kuch ek family travel karrhi hh ap soch rhe hoge ki ye sab q bata rha hu mai ....isliye bata rha hu quki usme ek choti c bacchi hh jiska naam bhi Priyanshi haii ....kash aap hote toh apko msg karta aur sabse phle yhi batata ya aur kuch bate karta lekin 🥺🙂
-
+Aaj 13 July hh time 9:50 pm Waise mai toh theek nhi hu mtlb kal aya tha toh aaj pure din ghar par hi rha toh pata nhi kyu lagbhag 6 bje se 3 bar vomiting hogyi khairr...Maine ye batane ke liye isse nhi khola....
+Mai aya tha aide hi likhne ki kal mai jauga school admit card lene ...Waise toh ye batane nhi aya bas aise hi agya agr hote aaj bhi sath toh aise hi kuch hal chal leta i think ye 2nd weak hh toh aap apne clg phuch gye hoge...umeed yahi hh ki aap enjoy karrhe hoge...aapka din accha gya hoga agr hote toh puchta kaisa rha experience clg ka.....
+theek hh fir chalte hh ham 🙂..!!
 `
 
     useEffect(() => {
