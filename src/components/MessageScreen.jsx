@@ -108,7 +108,7 @@ theek hh fir chalte hh ham 🙂..!!
                     animate={{ scale: 1, opacity: 1 }}
                     transition={{ delay: 0.5 }}
                 >
-                    <div className="text-lg md:text-2xl text-white leading-relaxed font-light" style={{ whiteSpace: "pre-line", textAlign: "left" }}>
+                    <div className="text-lg md:text-2xl text-white leading-relaxed font-light text-centre" style={{ whiteSpace: "pre-line", textAlign: "left" }}>
                         {displayText}
                         {isTyping && (
                             <motion.span className="inline-block w-0.5 h-6 bg-pink-400 ml-1"
