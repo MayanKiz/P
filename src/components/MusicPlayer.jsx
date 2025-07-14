@@ -19,7 +19,7 @@ export default function MusicPlayer({ musicPlaying }) {
     return (
         <div>
             <audio ref={audioRef} loop>
-                <source src="/audio/bg.mp3" type="audio/mpeg" />
+                <source src="public/audio/Agar-Tum-Saath-Ho-Tamasha-Flute-Instrumental-Cover-by-Flute-.m4a" type="audio/mpeg" />
             </audio>
         </div>
     )
