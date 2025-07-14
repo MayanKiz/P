@@ -4,12 +4,12 @@ import { motion } from "framer-motion"
 import { useEffect, useState, useRef } from "react"
 
 export default function MessageScreen({ onNext, ...motionProps }) {
-    const [displayText, setDisplayText] = useState([])
+    const [displayText, setDisplayText] = useState("")
     const [isTyping, setIsTyping] = useState(true)
     const audioRef = useRef(null)
 
-    // Split paragraphs and dates for spacing
-    const rawMessage = `
+    // Multi-line message, paragraphs split with \n\n for line breaks
+    const message = `
 Priyanshi...
 
 Yaar tum chhodke chali gyi 
@@ -60,54 +60,31 @@ mere just neeche kuch ek family travel karrhi hh ap soch rhe hoge ki ye sab q ba
 Aaj 13 July hh time 9:50 pm Waise mai toh theek nhi hu mtlb kal aya tha toh aaj pure din ghar par hi rha toh pata nhi kyu lagbhag 6 bje se 3 bar vomiting hogyi khairr...Maine ye batane ke liye iss[...]
 Mai aya tha aide hi likhne ki kal mai jauga school admit card lene ...Waise toh ye batane nhi aya bas aise hi agya agr hote aaj bhi sath toh aise hi kuch hal chal leta i think ye 2nd weak hh toh a[...]
 theek hh fir chalte hh ham 🙂..!!
-    `
+`
 
-    // Split by date patterns to create paragraphs with gap
-    function processMessage(msg) {
-        // Date pattern: e.g., "Aaj 23 June hh", "4 July", etc.
-        const dateRegex = /(\b\d{1,2}\s+\w+\b|\bAaj\s+\d{1,2}\s+\w+\b|\bWaise aaj \d{1,2} \w+\b)/gi
-        let parts = msg.split('\n').filter(line => line.trim() !== '')
-
-        // Mark date lines and create paragraph objects
-        let paras = []
-        parts.forEach((line, idx) => {
-            if (
-                dateRegex.test(line) ||
-                /time\s*\d{1,2}:\d{2}/i.test(line)
-            ) {
-                paras.push({ type: 'date', text: line.trim() })
-            } else {
-                paras.push({ type: 'para', text: line.trim() })
-            }
-        })
-        return paras
-    }
-
-    // Typewriter effect -- one paragraph at a time
+    // Simple typewriter effect, har character ek ek karke (fast)
     useEffect(() => {
-        const paras = processMessage(rawMessage)
         let i = 0
-        function showNext() {
-            if (i < paras.length) {
-                setDisplayText((prev) => [...prev, paras[i]])
+        function type() {
+            if (i < message.length) {
+                setDisplayText(prev => prev + message[i])
                 i++
-                setTimeout(showNext, paras[i - 1].type === "date" ? 500 : 60) // Longer pause on date
+                setTimeout(type, 10)
             } else {
                 setIsTyping(false)
             }
         }
-        showNext()
-    // eslint-disable-next-line
+        type()
+        // eslint-disable-next-line
     }, [])
 
-    // Auto-play music on mount, loop, and pause when tab closes
+    // Music auto-play on mount, loop forever
     useEffect(() => {
         if (audioRef.current) {
             audioRef.current.loop = true
             audioRef.current.volume = 0.5
             audioRef.current.play().catch(() => {})
         }
-        // Pause music on site leave
         const onUnload = () => {
             if (audioRef.current) audioRef.current.pause()
         }
@@ -133,18 +110,8 @@ theek hh fir chalte hh ham 🙂..!!
                     animate={{ scale: 1, opacity: 1 }}
                     transition={{ delay: 0.5 }}
                 >
-                    <div className="text-lg md:text-2xl text-white leading-relaxed font-light">
-                        {displayText.map((para, idx) => (
-                            para.type === "date" ? (
-                                <div key={idx} style={{ margin: "32px 0 24px 0", fontWeight: 600, color: "#fca5a5", fontSize: "1.1em" }}>
-                                    {para.text}
-                                </div>
-                            ) : (
-                                <div key={idx} style={{ margin: "16px 0", textAlign: "left" }}>
-                                    {para.text}
-                                </div>
-                            )
-                        ))}
+                    <div className="text-lg md:text-2xl text-white leading-relaxed font-light" style={{ whiteSpace: "pre-line", textAlign: "left" }}>
+                        {displayText}
                         {isTyping && (
                             <motion.span className="inline-block w-0.5 h-6 bg-pink-400 ml-1"
                                 animate={{ opacity: [0, 1, 0] }}
