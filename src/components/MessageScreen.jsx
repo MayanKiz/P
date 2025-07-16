@@ -61,6 +61,16 @@ mere just neeche kuch ek family travel karrhi hh ap soch rhe hoge ki ye sab q ba
 Aaj 13 July hh time 9:50 pm Waise mai toh theek nhi hu mtlb kal aya tha toh aaj pure din ghar par hi rha toh pata nhi kyu lagbhag 6 bje se 3 bar vomiting hogyi khairr...Maine ye batane ke liye isse nhi khola....
 Mai aya tha aide hi likhne ki kal mai jauga school admit card lene ...Waise toh ye batane nhi aya bas aise hi agya agr hote aaj bhi sath toh aise hi kuch hal chal leta i think ye 2nd weak hh toh aap apne clg phuch gye hoge...umeed yahi hh ki aap enjoy karrhe hoge...aapka din accha gya hoga agr hote toh puchta kaisa rha experience clg ka.....
 theek hh fir chalte hh ham 🙂..!!
+Hi how are u btw today's Date is 16:07:25 and time 4:34pm hope u t well all fine ....Waise kal mera ppr tha Achha gya hh maths ka tha 70+ ajyege aur 75+ bhi ban jyege mai bhi theek hu 🙂.Aur kya bolu wahi hh roj ki trh bhut yaad ati hh but msg karne ki himmat nhi hh....khair chhodo 
+agr apko kabhi bhi msg karna ho koi bhi Baat kabhi koi dikkat ya koi jaroorat kaise bhi ho ....aaP bass ek " hi" bhej dena mai sab kuch chhodke sab kuch bhul ke ajauga apse baat karne ke liye apki help ya jo bhi ho karne ajauga ....itna sab hone ke baad bhi mughey pata bhi nhi hh apke yantra me meri kaisii img hhh..dekho Chahe aap mujhe apna dost maanein ya na maanein,
+lekin mere liye aap hamesha meri best friend rahengi.
+Mujhe pata hai, aap chahe 100 baar mera msg ignore kar de,
+lekin agar kabhi aapka ek bhi bhi aaya,
+toh main bina kisi shikayat ke, bina soche samjhe aapke साथ खड़ा मिलूंगा।
+Pata hai kyun?
+क्योंकि mughey aisii hi dosti aatiu hai yarr...
+
+
 `
 
     useEffect(() => {
