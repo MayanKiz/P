@@ -70,6 +70,16 @@ toh main bina kisi shikayat ke, bina soche samjhe aapke साथ खड़ा �
 Pata hai kyun?
 क्योंकि mughey aisii hi dosti aatiu hai yarr...
 
+I know, now I'm in your following and followers list...
+But honestly, today I was really upset — all because of my so-called silly friends.
+They kept taunting me, saying things like:
+"You followed the person who blocked you?"
+"What about your self-respect?"
+"Where's your ego?"
+"This is insulting, bro."
+
+And maybe... maybe they’re right from their point of view.
+But they don’t understand that for me, it was never about ego.bcs I had said once value of this this friendship is on top so idc about my ego nd self-respect in ur case not for others bcs u r special one for me that's way i had followed.mai msg bhi karskta tha but itni himmat nhi hh q ki a
 
 `
 
