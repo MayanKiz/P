@@ -79,7 +79,7 @@ They kept taunting me, saying things like:
 "This is insulting, bro."
 
 And maybe... maybe they’re right from their point of view.
-But they don’t understand that for me, it was never about ego.bcs I had said once value of this this friendship is on top so idc about my ego nd self-respect in ur case not for others bcs u r special one for me that's way i had followed.mai msg bhi karskta tha but itni himmat nhi hh q ki a
+But they don’t understand that for me, it was never about ego.bcs I had said once value of this this friendship is on top so idc about my ego nd self-respect in ur case not for others bcs u r special one for me that's way i had followed.mai msg bhi karskta tha but itni himmat nhi hh q ki apke cold and rude replies se dar lagta hh ..Aaisi Baat ka koi fayda nhi rahega isliye nhi karta dm
 
 `
 
