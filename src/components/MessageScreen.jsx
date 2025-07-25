@@ -79,8 +79,15 @@ They kept taunting me, saying things like:
 "This is insulting, bro."
 
 And maybe... maybe they’re right from their point of view.
-But they don’t understand that for me, it was never about ego.bcs I had said once value of this this friendship is on top so idc about my ego nd self-respect in ur case not for others bcs u r special one for me that's way i had followed.mai msg bhi karskta tha but itni himmat nhi hh q ki apke cold and rude replies se dar lagta hh ..Aaisi Baat ka koi fayda nhi rahega isliye nhi karta dm
+But they don’t understand that for me, it was never about ego.bcs I had said once value of this this friendship is on top so idc about my ego nd self-respect in ur case not for others bcs u r special one for me that's way i had followed.mai msg bhi karskta tha but itni himmat nhi hh q ki apke cold and rude replies se dar lagta hh ..Aaisi Baat ka koi fayda nhi rahega isliye nhi karta dm aur wahi jo apne phle kiya i mean heart break se dar lagta bilkull tut sa gya tha.....
 
+Hi today's Date 26 july 1:11 raat ke i mean 1:11am abhi dpp karke free hua tha toh neend nhi aarhi thi toh aagya ....
+Aur asha hh ki sab theek thak hoga bilkull mast idk whare r u nd in which condition r u ...? bas yahi chehta hu ki jaha bhi ho aap badhiya ho....
+
+isme kahi agar galti se kuch aisa likha ho jisse aap ko gussa aye ya kuch jo uncomfortable feel karye uske liye ham mafi mangte h hame maf kariyega ....
+mughey ye bhi nhi pata aap hamse vaate q nhi karte hame hate q karte hh agar kabhi bhool se ya kabhi kuch jyada boldiya ho jisse aapne hame ye punishment di uske liye bhi ham sorry bolte hh ....
+ok byee
+Good Night 
 `
 
     useEffect(() => {
